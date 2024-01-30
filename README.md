@@ -1,6 +1,11 @@
-New Project Weather Dashboard 
-Create a weather dashboard with form inputs.
-When a user searches for a city they are presented with current and future conditions for that city and that city is added to the search history
+# Weather Dashboard
+
+
+## Overview
+The Weather Dashboard is a web application that allows users to check the current and future weather conditions for multiple cities. It uses the OpenWeatherMap API to retrieve weather data 
+
+## Features
+When a user searches for a city they are presented with current and future conditions for that city
 When a user views the current weather conditions for that city they are presented with:
 The city name
 The date
@@ -9,8 +14,7 @@ The temperature
 The humidity
 The wind speed
 When a user view future weather conditions for that city they are presented with a 5-day forecast that displays:
-The date
-An icon representation of weather conditions
-The temperature
-The humidity
-When a user click on a city in the search history they are again presented with current and future conditions for that city
+
+## Licence 
+
+MIT Licence used.
